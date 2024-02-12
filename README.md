@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suchir2609, I am a sophoremore at Birla institute of Technology and Science, Pilani and currently enrolled in Electronics and Communication Engineering 
 - 👀 I’m interested in Backend support and web developement
-- 🌱 I’m currently learning Django RestAPI, Nodejs
+- 🌱 I’m currently learning Django RestAPI, Nodejs, Expressjs, MongoDB, Mongoose
 - 📫 How to reach me - Email address - suchirgupta26@gmail.com
 
 <!---
